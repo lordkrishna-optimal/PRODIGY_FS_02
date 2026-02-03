@@ -241,14 +241,10 @@ Phase 4: Optimize for scalability and deploy a production-ready version.
 
 ## 🧑‍💻 Authors & Acknowledgments
 
-Akash Jadhav
+Vinod Choudhary
 
 Special Thanks: Prodigy InfoTech
 
 
 
-## 📬 Contact
-
-
-LinkedIn: [Akash Jadhav](https://www.linkedin.com/in/akash-jadhav-a5752a340/).
-
+ 
